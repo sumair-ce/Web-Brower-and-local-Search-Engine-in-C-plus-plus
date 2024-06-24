@@ -1,5 +1,5 @@
 # Web-Brower-and-local-Search-Engine-in-C-+-+
-Working methadology:
+*Working methodology:* 
 For search word function, it basically used Trie to find either that word is present in any file or
 not, if word found then it backtrace to get its directory and at the end, it read the complete
 content of that file and counts how many times that specific word occurs and display their
